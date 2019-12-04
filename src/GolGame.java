@@ -11,7 +11,7 @@ import javax.swing.JPanel;
 import javax.swing.JSlider;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
-
+//collaborated with Jacky Zhao and Mayson Snavely
 
 
 
